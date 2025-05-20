@@ -2,11 +2,7 @@
 ## Design Project 2 🎓
  
 ##### Developed BY noobCoders
-      1.Rifat Mahamud (221014046)
-      2.Tamanna Akter (221014062)
-      3.S M Asif Mehrab (221014013)
-      4.Soyab Ansari (231014011)
-      5.Prisom Halder (221014137)
+      Minhazul Islam(223014213)
 ### 🌟 Project Title 🌟:  
 ShopBolt – Your One-Stop Marketplace for Electrical Accessories, Books & Rentals
 
